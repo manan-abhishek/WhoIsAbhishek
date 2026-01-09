@@ -192,7 +192,7 @@ export const education = [
 ]
 export const projects = [
   {
-    id: 9,
+    id: 2,
     title: "WhoIsAbhishek",
     date: "Jan 2025 - Feb 2025",
     description:
@@ -211,9 +211,9 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 3,
     title: "CropTrack",
-    date: "February 2025 -May 2024",
+    date: "February 2025 -May 2025",
     description:
   "CropTrack an Android app designed to help farmers monitor real-time crop growth stages and manage essential resources efficiently. Built with Kotlin and Retrofit, it offers weather forecasting, field tracking, activity reminders, and a dedicated equipment renting feature that enables users to browse and rent farming machinery easily",
     image: "../CropTrack.png",
@@ -222,7 +222,7 @@ export const projects = [
     github: "https://github.com/manan-abhishek/CropTrack-AndroidApp",
   },
   {
-    id: 2,
+    id: 4,
     title: "Food Delivery Website",
     date: "Sep 2022 - Nov 2022",
     description:
@@ -234,7 +234,7 @@ export const projects = [
   },
   
   {
-    id: 10,
+    id: 5,
     title: "Password Strength Analyzer",
     date: "Aug 2025 - Aug 2025",
     description:
@@ -248,6 +248,22 @@ export const projects = [
     ],
     category: "cyber security",
     github: "https://github.com/manan-abhishek/Password-Strength-Analyzer",
+  },
+  {
+    id: 6,
+    title: "Smart Task Scheduler",
+    date: "Aug 2025 - Aug 2025",
+    description:
+      "A role-based employee task management system built with React.js and Tailwind CSS. Admins can assign tasks and track progress, while employees manage and update their work in real-time.",
+    image: "../SmartTaskScheduler.png",
+    tags: [
+      "React.js",
+      "Tailwind CSS",
+      "Javascript",
+      "Vite",
+    ],
+    category: "web app",
+    github: "https://github.com/manan-abhishek/Smart-Task-Scheduler",
   },
   
 ];
